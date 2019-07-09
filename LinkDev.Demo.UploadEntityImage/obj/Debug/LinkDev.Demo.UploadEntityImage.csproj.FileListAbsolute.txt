@@ -1,0 +1,7 @@
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.Demo.UploadEntityImage\LinkDev.Demo.UploadEntityImage\bin\Debug\LinkDev.Demo.UploadEntityImage.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.Demo.UploadEntityImage\LinkDev.Demo.UploadEntityImage\bin\Debug\LinkDev.Demo.UploadEntityImage.pdb
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.Demo.UploadEntityImage\LinkDev.Demo.UploadEntityImage\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.Demo.UploadEntityImage\LinkDev.Demo.UploadEntityImage\bin\Debug\Microsoft.Xrm.Client.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.Demo.UploadEntityImage\LinkDev.Demo.UploadEntityImage\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.Demo.UploadEntityImage\LinkDev.Demo.UploadEntityImage\obj\Debug\LinkDev.Demo.UploadEntityImage.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.Demo.UploadEntityImage\LinkDev.Demo.UploadEntityImage\obj\Debug\LinkDev.Demo.UploadEntityImage.pdb
